@@ -1,2 +1,4 @@
 # muchfahmiarif.githu.io
-Repo brown sugar
+Landing page brown sugar
+
+HTML - CSS - Javascript
